@@ -1,5 +1,6 @@
 package com.example.demo.entity;
 
 public enum TipoEmprestimo {
-	Pessoal
+	Pessoal,
+	com_Garantia
 }
